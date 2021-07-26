@@ -6,5 +6,5 @@
 
 | chalenge number | link |
 |---|---|
-|  |  |
-|Array Shift|[read link](Challenge/array-insert-shift/README.md) |
+|Array-Reverse|[Link Here](Challenge/array-reverse/README.md)|
+|Array Shift|[Link Here](Challenge/array-insert-shift/README.md)|
